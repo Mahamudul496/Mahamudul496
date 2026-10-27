@@ -66,21 +66,23 @@ Working with SUMO, Python, and NS-3.
 
 ---
 
+
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub statistics"
-  >
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default"
+    alt="GitHub Stats"
+  />
 </p>
 
-<p align="center">
+<p>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true"
-    alt="Most used programming languages"
-  >
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default"
+    alt="Most Used Languages"
+  />
 </p>
+
 
 ---
 
