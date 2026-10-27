@@ -18,7 +18,8 @@ academic books. Features include authentication, search and filters,
 wishlist, purchase requests, student chat, seller ratings, and admin
 approval. Built with PHP, MySQL, HTML, CSS, and JavaScript.
 
-
+**[StudyPortBd](https://studyportbd.com)** · *Web Development Project*  
+A study-abroad platform designed to help students explore international study opportunities and university information. Features include university listings, official university links, and student-focused information. Built with PHP, MySQL, HTML, CSS, and JavaScript.
 
 **[Go-Green](https://github.com/Mahamudul496/Go-Green)** · *Team Project*  
 A reward-based waste management system. Users submit recyclable waste,
