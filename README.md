@@ -71,14 +71,14 @@ Working with SUMO, Python, and NS-3.
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default"
+    src="https://github-readme-stats.vercel.app/api?username=Mahamudul496&show_icons=true&theme=default"
     alt="GitHub Stats"
   />
 </p>
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahamudul496&layout=compact&theme=default"
     alt="Most Used Languages"
   />
 </p>
