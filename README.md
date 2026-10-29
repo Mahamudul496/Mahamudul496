@@ -90,10 +90,10 @@ Working with SUMO, Python, and NS-3.
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mahmudul-hasan-42a30a21a/">
+  <a href="https://www.linkedin.com/in/mahmudul-hasan-42a30a21a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="(https://mahamudul496.github.io/My-Portfolio/)">
+  <a href="https://mahamudul496.github.io/My-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=googlechrome" alt="Portfolio">
   </a>
 </p>
